@@ -1,9 +1,10 @@
 **Installation**
 
-Requiert node v13.14.0
-Commande : npm run install:clean
+* Requiert node v13.14.0
+* Commande : npm run install:clean
 
-**Complex Documentation**
+
+**Information sur le template utilisé Argon Design System React**
 
 Each element is well presented in a very complex documentation. You can read more about the [idea behind this design system here](https://demos.creative-tim.com/argon-design-system-react/#/documentation/overview?ref=adsr-github-readme). You can [check the components here](https://demos.creative-tim.com/argon-design-system-react/#/documentation/alert?ref=adsr-github-readme) and [the foundation here](https://demos.creative-tim.com/argon-design-system-react/#/documentation/colors?ref=adsr-github-readme).
 
