@@ -16,8 +16,6 @@
 
 */
 import React, { useState, useEffect } from "react";
-import axios from "axios";
-// nodejs library that concatenates classes
 
 // reactstrap components
 import {
@@ -99,7 +97,7 @@ function WordTranslate() {
   useEffect(() => {
     if (wordsToTranslate.length != 0) {
       changeWord();
-    } 
+    }
   }, [wordsToTranslate]);
 
   useEffect(() => {
@@ -157,7 +155,7 @@ function WordTranslate() {
         (eachObj) => eachObj.word !== wordToTranslate
       );
       setWordsToTranslate(updatedWords);
-    } 
+    }
     if (wordsToTranslate.length == 1) {
       setShowAlert(alert);
     }
@@ -203,7 +201,8 @@ function WordTranslate() {
         <i className="ni ni-settings" />
       </span>{" "}
       <span className="alert-inner--text">
-        <strong>Alerte !</strong> Vous avez épuisé tous les mots de ce thème ! Veuillez changer de thème.
+        <strong>Alerte !</strong> Vous avez épuisé tous les mots de ce thème !
+        Veuillez changer de thème.
       </span>
     </UncontrolledAlert>
   );

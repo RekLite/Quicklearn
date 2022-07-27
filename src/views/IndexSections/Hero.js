@@ -15,16 +15,15 @@
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 */
-import React, { useEffect } from "react";
+import React from "react";
 import { GiBookmarklet } from "../../assets/vendor/react-icons/gi";
 import { GiTeacher } from "../../assets/vendor/react-icons/gi";
 import { GiPencilRuler } from "../../assets/vendor/react-icons/gi";
-import { GrWorkshop } from "../../assets/vendor/react-icons/gr";
+
 // reactstrap components
 import { Button, Container, Row, Col } from "reactstrap";
 
 import { useLocation } from "react-router-dom";
-import Translate from "./Translate";
 
 function HeaderView(onglet) {
   const location = useLocation();
@@ -37,18 +36,10 @@ function HeaderView(onglet) {
   }
 }
 
-/* class Hero extends React.Component */ function Hero(props) {
-  /*   render() { */
-
-  /* useEffect(() => {
-      console.log("tamere");
-      HeaderView();
-    }); */
-
+function Hero(props) {
   return (
     <>
       <div className="position-relative">
-        {/* Hero for FREE version */}
         <section className="section section-hero section-shaped">
           {/* Background circles */}
           <div className="shape shape-style-1 shape-primary">
@@ -163,6 +154,5 @@ function HeaderView(onglet) {
     </>
   );
 }
-/* } */
 
 export default Hero;

@@ -16,7 +16,6 @@
 
 */
 import React from "react";
-import { Button, Container, Row, Col } from "reactstrap";
 
 class Background extends React.Component {
 

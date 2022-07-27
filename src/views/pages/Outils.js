@@ -16,35 +16,13 @@
 
 */
 import React from "react";
-import classnames from "classnames";
-
-// reactstrap components
-import {
-  FormGroup,
-  Input,
-  Container,
-  InputGroupAddon,
-  InputGroupText,
-  InputGroup,
-  Card,
-  CardBody,
-  NavItem,
-  NavLink,
-  Nav,
-  TabContent,
-  TabPane,
-  Row,
-  Col,
-} from "reactstrap";
 
 // core components
 import DemoNavbar from "components/Navbars/DemoNavbar.js";
-import CardsFooter from "components/Footers/CardsFooter.js";
 import SimpleFooter from "components/Footers/SimpleFooter.js";
 
 // index page sections
 import Background from "../IndexSections/Background.js";
-import Navbars from "../IndexSections/Navbars.js";
 import Translate from "../IndexSections/Translate.js";
 
 class Outils extends React.Component {
@@ -59,7 +37,6 @@ class Outils extends React.Component {
         <DemoNavbar />
         <main ref="main">
         <div className="position-relative">
-        {/* Hero for FREE version */}
         <section className="section section-hero section-shaped">
           <Background />
           <Translate />

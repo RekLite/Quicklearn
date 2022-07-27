@@ -64,10 +64,6 @@ class DemoNavbar extends React.Component {
   };
 
   render() {
-    const mystyle = {
-      textDecorationLine: "underline",
-    };
-
     return (
       <>
         <header className="header-global">
@@ -143,7 +139,7 @@ class DemoNavbar extends React.Component {
                   <NavLink
                     className="nav-link-icon"
                     href="https://reactjs.org/"
-                    onClick={(e) => e.preventDefault()}
+                    target="_blank"
                   >
                     <span className="nav-link-inner--text">
                       <FaReact size={35} color="#61dafb" />
@@ -152,6 +148,8 @@ class DemoNavbar extends React.Component {
                           value="bwr"
                           href="https://reactjs.org/"
                           className={styles.underline}
+                          rel="noopener noreferrer"
+                          target="_blank"
                         >
                           Built with React.js
                         </a>
