@@ -1,31 +1,28 @@
 {
   "files": {
-    "main.css": "/quicklearn/static/css/main.6a831e93.chunk.css",
-    "main.js": "/quicklearn/static/js/main.cd93e575.chunk.js",
-    "main.js.map": "/quicklearn/static/js/main.cd93e575.chunk.js.map",
+    "main.css": "/quicklearn/static/css/main.38067ff1.chunk.css",
+    "main.js": "/quicklearn/static/js/main.2668a622.chunk.js",
+    "main.js.map": "/quicklearn/static/js/main.2668a622.chunk.js.map",
     "runtime-main.js": "/quicklearn/static/js/runtime-main.4872674b.js",
     "runtime-main.js.map": "/quicklearn/static/js/runtime-main.4872674b.js.map",
-    "static/js/2.b0ced37c.chunk.js": "/quicklearn/static/js/2.b0ced37c.chunk.js",
-    "static/js/2.b0ced37c.chunk.js.map": "/quicklearn/static/js/2.b0ced37c.chunk.js.map",
+    "static/js/2.6f589ed4.chunk.js": "/quicklearn/static/js/2.6f589ed4.chunk.js",
+    "static/js/2.6f589ed4.chunk.js.map": "/quicklearn/static/js/2.6f589ed4.chunk.js.map",
     "index.html": "/quicklearn/index.html",
-    "precache-manifest.b8f90bb91fd3bc1f94b26821d79b5cfb.js": "/quicklearn/precache-manifest.b8f90bb91fd3bc1f94b26821d79b5cfb.js",
+    "precache-manifest.b9823519fa32996467ede2f1bb1c529c.js": "/quicklearn/precache-manifest.b9823519fa32996467ede2f1bb1c529c.js",
     "service-worker.js": "/quicklearn/service-worker.js",
-    "static/css/main.6a831e93.chunk.css.map": "/quicklearn/static/css/main.6a831e93.chunk.css.map",
-    "static/js/2.b0ced37c.chunk.js.LICENSE.txt": "/quicklearn/static/js/2.b0ced37c.chunk.js.LICENSE.txt",
-    "static/js/main.cd93e575.chunk.js.LICENSE.txt": "/quicklearn/static/js/main.cd93e575.chunk.js.LICENSE.txt",
-    "static/media/argon-react.png": "/quicklearn/static/media/argon-react.f38ddea9.png",
+    "static/css/main.38067ff1.chunk.css.map": "/quicklearn/static/css/main.38067ff1.chunk.css.map",
+    "static/js/2.6f589ed4.chunk.js.LICENSE.txt": "/quicklearn/static/js/2.6f589ed4.chunk.js.LICENSE.txt",
+    "static/js/main.2668a622.chunk.js.LICENSE.txt": "/quicklearn/static/js/main.2668a622.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/quicklearn/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/landing.jpg": "/quicklearn/static/media/landing.0ec26478.jpg",
     "static/media/nucleo.css": "/quicklearn/static/media/nucleo-icons.f82ec6ba.ttf",
-    "static/media/profile.jpg": "/quicklearn/static/media/profile.278a0d25.jpg",
     "static/media/quicklearn-purple.png": "/quicklearn/static/media/quicklearn-purple.6732e63a.png",
     "static/media/quicklearn-white.png": "/quicklearn/static/media/quicklearn-white.782aff5b.png",
     "static/media/uppa-logo-white.png": "/quicklearn/static/media/uppa-logo-white.bae0c63a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4872674b.js",
-    "static/js/2.b0ced37c.chunk.js",
-    "static/css/main.6a831e93.chunk.css",
-    "static/js/main.cd93e575.chunk.js"
+    "static/js/2.6f589ed4.chunk.js",
+    "static/css/main.38067ff1.chunk.css",
+    "static/js/main.2668a622.chunk.js"
   ]
 }
