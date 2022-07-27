@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/quicklearn/static/css/main.6a831e93.chunk.css",
+    "main.js": "/quicklearn/static/js/main.d18c5c2f.chunk.js",
+    "main.js.map": "/quicklearn/static/js/main.d18c5c2f.chunk.js.map",
+    "runtime-main.js": "/quicklearn/static/js/runtime-main.4872674b.js",
+    "runtime-main.js.map": "/quicklearn/static/js/runtime-main.4872674b.js.map",
+    "static/js/2.c95684a5.chunk.js": "/quicklearn/static/js/2.c95684a5.chunk.js",
+    "static/js/2.c95684a5.chunk.js.map": "/quicklearn/static/js/2.c95684a5.chunk.js.map",
+    "index.html": "/quicklearn/index.html",
+    "precache-manifest.84f79156ce03bb768d4e7a9f7fcd291b.js": "/quicklearn/precache-manifest.84f79156ce03bb768d4e7a9f7fcd291b.js",
+    "service-worker.js": "/quicklearn/service-worker.js",
+    "static/css/main.6a831e93.chunk.css.map": "/quicklearn/static/css/main.6a831e93.chunk.css.map",
+    "static/js/2.c95684a5.chunk.js.LICENSE.txt": "/quicklearn/static/js/2.c95684a5.chunk.js.LICENSE.txt",
+    "static/js/main.d18c5c2f.chunk.js.LICENSE.txt": "/quicklearn/static/js/main.d18c5c2f.chunk.js.LICENSE.txt",
+    "static/media/argon-react.png": "/quicklearn/static/media/argon-react.f38ddea9.png",
+    "static/media/font-awesome.min.css": "/quicklearn/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/github.svg": "/quicklearn/static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "/quicklearn/static/media/google.87be59a1.svg",
+    "static/media/ill-2.svg": "/quicklearn/static/media/ill-2.594b1ee1.svg",
+    "static/media/img-1-1200x1000.jpg": "/quicklearn/static/media/img-1-1200x1000.1e7c70dc.jpg",
+    "static/media/img-2-1200x1000.jpg": "/quicklearn/static/media/img-2-1200x1000.ba449a06.jpg",
+    "static/media/landing.jpg": "/quicklearn/static/media/landing.0ec26478.jpg",
+    "static/media/nucleo.css": "/quicklearn/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/profile.jpg": "/quicklearn/static/media/profile.278a0d25.jpg",
+    "static/media/promo-1.png": "/quicklearn/static/media/promo-1.75f7ab18.png",
+    "static/media/quicklearn-purple.png": "/quicklearn/static/media/quicklearn-purple.6732e63a.png",
+    "static/media/quicklearn-white.png": "/quicklearn/static/media/quicklearn-white.782aff5b.png",
+    "static/media/team-1-800x800.jpg": "/quicklearn/static/media/team-1-800x800.53033970.jpg",
+    "static/media/team-2-800x800.jpg": "/quicklearn/static/media/team-2-800x800.dcfcf3b7.jpg",
+    "static/media/team-3-800x800.jpg": "/quicklearn/static/media/team-3-800x800.497bb359.jpg",
+    "static/media/team-4-800x800.jpg": "/quicklearn/static/media/team-4-800x800.23007132.jpg",
+    "static/media/uppa-logo-white.png": "/quicklearn/static/media/uppa-logo-white.bae0c63a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4872674b.js",
+    "static/js/2.c95684a5.chunk.js",
+    "static/css/main.6a831e93.chunk.css",
+    "static/js/main.d18c5c2f.chunk.js"
+  ]
+}
