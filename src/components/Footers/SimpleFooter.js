@@ -47,7 +47,7 @@ class SimpleFooter extends React.Component {
               <Col md="6">
                 <div className="copyright">
                   © {new Date().getFullYear()}{" "}
-                    Raphaël Montulet & Arnaud Larronde.
+                    Raphaël Montulet.
                 </div>
               </Col>
               <Col md="6">
