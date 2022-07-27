@@ -16,26 +16,7 @@
 
 */
 import React, { useState } from "react";
-import classnames from "classnames";
 
-// reactstrap components
-import {
-  FormGroup,
-  Input,
-  Container,
-  InputGroupAddon,
-  InputGroupText,
-  InputGroup,
-  Card,
-  CardBody,
-  NavItem,
-  NavLink,
-  Nav,
-  TabContent,
-  TabPane,
-  Row,
-  Col,
-} from "reactstrap";
 
 // core components
 import DemoNavbar from "components/Navbars/DemoNavbar.js";

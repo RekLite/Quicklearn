@@ -49,9 +49,9 @@ function Globe({ center }) {
   let count = 0;
 
   function cityName() {
-    let res = markers[count].name;
+    let resCityName = markers[count].name;
     count++;
-    return res;
+    return resCityName;
   }
 
   function setOffMarker() {
@@ -74,7 +74,8 @@ function Globe({ center }) {
   }
 
   function setLink() {
-    console.log("fils de pute");
+    let resCityLink = "https://en.wikipedia.org/wiki/" + markers[count].name;
+    return resCityLink;
   }
 
   return (
@@ -127,7 +128,7 @@ function Globe({ center }) {
                       {(geos, proj) =>
                         geos.map((geo, i) => (
                           <Geography
-                            data-tip="chien"
+                            data-tip="oui"
                             key={geo.id + i}
                             geography={geo}
                             projection={proj}
@@ -181,6 +182,13 @@ function Globe({ center }) {
             </Motion>
             <ReactTooltip />
           </div>
+          <div className="mb-0 d-flex justify-content-center">
+          <blockquote className="blockquote">
+            <p className="mb-0 lead text-white">
+              Cliquez sur une ville pour ouvrir le wikipédia correspondant.
+            </p>
+          </blockquote>
+        </div>
         </Row>
       </Container>
     </>
