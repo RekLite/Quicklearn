@@ -61,7 +61,7 @@ ReactDOM.render(
         render={(props) => <Register {...props} />}
       />
       <Route
-        path="/magazines"
+        path="/quicklearn/magazines"
         exact
         render={(props) => <Magazines {...props} />}
       />
