@@ -34,7 +34,7 @@ import Ateliers from "views/pages/Ateliers.js";
 import Outils from "views/pages/Outils.js";
 
 ReactDOM.render(
-  <BrowserRouter>
+  <HashRouter>
     <Switch>
       <Route path="/" 
         exact 
@@ -77,6 +77,6 @@ ReactDOM.render(
       />
       <Redirect to="/" />
     </Switch>
-  </BrowserRouter>,
+  </HashRouter>,
   document.getElementById("root")
 );
