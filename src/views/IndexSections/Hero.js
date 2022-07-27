@@ -78,7 +78,7 @@ function Hero(props) {
                           <Button
                             className="btn-white btn-icon mb-3 mb-sm-0 w-75"
                             color={HeaderView("/magazines")}
-                            href="/magazines"
+                            href="https://reklite.github.io/quicklearn/#/magazines"
                           >
                             <span className="btn-inner--text">
                               <GiBookmarklet size={20} /> <span>Magazines</span>
@@ -89,7 +89,7 @@ function Hero(props) {
                           <Button
                             className="btn-icon mb-3 mb-sm-0 w-75"
                             color={HeaderView("/Ateliers")}
-                            href="/Ateliers"
+                            href="https://reklite.github.io/quicklearn/#/Ateliers"
                           >
                             <span className="btn-inner--text">
                               <GiTeacher size={20} />
@@ -103,7 +103,7 @@ function Hero(props) {
                           <Button
                             className="btn-icon mb-3 mb-sm-0 w-75"
                             color={HeaderView("/outils")}
-                            href="/Outils"
+                            href="https://reklite.github.io/quicklearn/#/Outils"
                           >
                             <span className="btn-inner--text">
                               <GiPencilRuler size={20} />
