@@ -29,6 +29,8 @@
   },
   "homepage": "https://reklite.github.io/quicklearn/",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "CHOKIDAR_USEPOLLING=true react-scripts start",
     "build": "react-scripts build && gulp licenses",
     "test": "react-scripts test",
@@ -53,6 +55,7 @@
     "bootstrap": "4.3.1",
     "classnames": "2.3.1",
     "eslint": "^6.6.0",
+    "gh-pages": "^4.0.0",
     "headroom.js": "0.12.0",
     "moment": "2.29.1",
     "node-sass": "4.13.1",
