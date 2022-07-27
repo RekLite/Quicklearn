@@ -114,21 +114,21 @@ class DemoNavbar extends React.Component {
                 <Nav className="align-items-lg-center ml-lg-auto" navbar>
                   <NavItem>
                     <NavLink>
-                      <a className={styles.underline} href="/magazines">
+                      <a className={styles.underline} href="https://reklite.github.io/quicklearn/#/magazines">
                         Magazines
                       </a>
                     </NavLink>
                   </NavItem>
                   <NavItem>
                     <NavLink>
-                      <a className={styles.underline} href="/ateliers">
+                      <a className={styles.underline} href="https://reklite.github.io/quicklearn/#/ateliers">
                         Ateliers
                       </a>
                     </NavLink>
                   </NavItem>
                   <NavItem className="mr-3">
                     <NavLink>
-                      <a className={styles.underline} href="/outils">
+                      <a className={styles.underline} href="https://reklite.github.io/quicklearn/#/outils">
                         Outils
                       </a>
                     </NavLink>
