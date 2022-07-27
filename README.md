@@ -4,7 +4,7 @@ Projet développé dans le cadre du Master 1 - Technologie de l'Internet (UPPA) 
 
 Objectif : réaliser un site en React permettant l'apprentissage en autoformation d'une langue.
 
-Intérêt ici plus sur l'interface et la forme que sur les fonctionnalités.
+Intérêt porté plus sur l'interface que sur les fonctionnalités.
 
 ## Table des matières
 
