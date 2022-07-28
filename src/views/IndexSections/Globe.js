@@ -67,7 +67,6 @@ function Globe({ center }) {
       name === "Seattle" ||
       name === "San Francisco"
     ) {
-      console.log(markers[count].name);
       res = -30;
     }
     return res;
