@@ -209,7 +209,7 @@ function Translate() {
                   </Card>
                 </Col>
                 <Col className="ml--3">
-                  <Card className="h-100" /*  style={{ height: 238 }} */>
+                  <Card className="h-100">
                     <CardHeader className="text-center">
                       {LanguagesDropdown(2)}
                     </CardHeader>
@@ -242,7 +242,7 @@ function Translate() {
             <p className="lead text-white">
               – basé sur{" "}
               <i>
-                <a className="text-white" href="https://libretranslate.com">
+                <a className="text-white" href="https://libretranslate.com" target="_blank" rel="noopener noreferrer">
                   LibreTranslate
                 </a>
               </i>

@@ -88,7 +88,10 @@ function Globe({ center }) {
         <div className="mb-0 d-flex justify-content-center">
           <blockquote className="blockquote">
             <p className="mb-0 lead text-white">
-              Visualisez en 3D les principales villes anglophones dans le monde.
+              Visualisez en 3D les principales villes anglophones dans le monde.<br />
+              <center>
+              Cliquez sur une ville pour ouvrir le wikipédia correspondant.
+              </center>
             </p>
           </blockquote>
         </div>
@@ -182,11 +185,6 @@ function Globe({ center }) {
             <ReactTooltip />
           </div>
           <div className="mb-0 d-flex justify-content-center">
-          <blockquote className="blockquote">
-            <p className="mb-0 lead text-white">
-              Cliquez sur une ville pour ouvrir le wikipédia correspondant.
-            </p>
-          </blockquote>
         </div>
         </Row>
       </Container>
