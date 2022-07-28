@@ -173,7 +173,7 @@ function Globe({ center }) {
                             style={{ fontFamily: "system-ui", fill: "white" }}
                             className="h5"
                           >
-                            <a href={setLink()}>{cityName()}</a>
+                            <a href={setLink()} target="_blank" rel="noopener noreferrer">{cityName()}</a>
                           </text>
                         </Marker>
                       ))}
