@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/quicklearn/static/css/main.38067ff1.chunk.css",
-    "main.js": "/quicklearn/static/js/main.bb6bc710.chunk.js",
-    "main.js.map": "/quicklearn/static/js/main.bb6bc710.chunk.js.map",
+    "main.js": "/quicklearn/static/js/main.a568b1eb.chunk.js",
+    "main.js.map": "/quicklearn/static/js/main.a568b1eb.chunk.js.map",
     "runtime-main.js": "/quicklearn/static/js/runtime-main.4872674b.js",
     "runtime-main.js.map": "/quicklearn/static/js/runtime-main.4872674b.js.map",
     "static/js/2.6f589ed4.chunk.js": "/quicklearn/static/js/2.6f589ed4.chunk.js",
     "static/js/2.6f589ed4.chunk.js.map": "/quicklearn/static/js/2.6f589ed4.chunk.js.map",
     "index.html": "/quicklearn/index.html",
-    "precache-manifest.20ce4431771ebc1a79e27a4cc83c5f4e.js": "/quicklearn/precache-manifest.20ce4431771ebc1a79e27a4cc83c5f4e.js",
+    "precache-manifest.05aec920246e23c16338f85323c554e2.js": "/quicklearn/precache-manifest.05aec920246e23c16338f85323c554e2.js",
     "service-worker.js": "/quicklearn/service-worker.js",
     "static/css/main.38067ff1.chunk.css.map": "/quicklearn/static/css/main.38067ff1.chunk.css.map",
     "static/js/2.6f589ed4.chunk.js.LICENSE.txt": "/quicklearn/static/js/2.6f589ed4.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.4872674b.js",
     "static/js/2.6f589ed4.chunk.js",
     "static/css/main.38067ff1.chunk.css",
-    "static/js/main.bb6bc710.chunk.js"
+    "static/js/main.a568b1eb.chunk.js"
   ]
 }
