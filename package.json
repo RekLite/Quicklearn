@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/creativetimofficial/argon-design-system-react/issues"
   },
-  "homepage": "https://reklite.github.io/Quicklearn/",
+  "homepage": "https://reklite.github.io/quicklearn/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
