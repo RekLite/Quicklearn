@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/quicklearn/static/css/main.38067ff1.chunk.css",
-    "main.js": "/quicklearn/static/js/main.3d6a0b15.chunk.js",
-    "main.js.map": "/quicklearn/static/js/main.3d6a0b15.chunk.js.map",
-    "runtime-main.js": "/quicklearn/static/js/runtime-main.4872674b.js",
-    "runtime-main.js.map": "/quicklearn/static/js/runtime-main.4872674b.js.map",
-    "static/js/2.6f589ed4.chunk.js": "/quicklearn/static/js/2.6f589ed4.chunk.js",
-    "static/js/2.6f589ed4.chunk.js.map": "/quicklearn/static/js/2.6f589ed4.chunk.js.map",
-    "index.html": "/quicklearn/index.html",
-    "precache-manifest.113a9e5a9cd2f7194516150ec0a75d51.js": "/quicklearn/precache-manifest.113a9e5a9cd2f7194516150ec0a75d51.js",
-    "service-worker.js": "/quicklearn/service-worker.js",
-    "static/css/main.38067ff1.chunk.css.map": "/quicklearn/static/css/main.38067ff1.chunk.css.map",
-    "static/js/2.6f589ed4.chunk.js.LICENSE.txt": "/quicklearn/static/js/2.6f589ed4.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/quicklearn/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/nucleo.css": "/quicklearn/static/media/nucleo-icons.f82ec6ba.ttf",
-    "static/media/quicklearn-purple.png": "/quicklearn/static/media/quicklearn-purple.6732e63a.png",
-    "static/media/quicklearn-white.png": "/quicklearn/static/media/quicklearn-white.782aff5b.png",
-    "static/media/uppa-logo-white.png": "/quicklearn/static/media/uppa-logo-white.bae0c63a.png"
+    "main.css": "/Quicklearn/static/css/main.841a24be.chunk.css",
+    "main.js": "/Quicklearn/static/js/main.3d6a0b15.chunk.js",
+    "main.js.map": "/Quicklearn/static/js/main.3d6a0b15.chunk.js.map",
+    "runtime-main.js": "/Quicklearn/static/js/runtime-main.cdace25c.js",
+    "runtime-main.js.map": "/Quicklearn/static/js/runtime-main.cdace25c.js.map",
+    "static/js/2.6f589ed4.chunk.js": "/Quicklearn/static/js/2.6f589ed4.chunk.js",
+    "static/js/2.6f589ed4.chunk.js.map": "/Quicklearn/static/js/2.6f589ed4.chunk.js.map",
+    "index.html": "/Quicklearn/index.html",
+    "precache-manifest.c56c4c8699e064f431856e0ea8aec59b.js": "/Quicklearn/precache-manifest.c56c4c8699e064f431856e0ea8aec59b.js",
+    "service-worker.js": "/Quicklearn/service-worker.js",
+    "static/css/main.841a24be.chunk.css.map": "/Quicklearn/static/css/main.841a24be.chunk.css.map",
+    "static/js/2.6f589ed4.chunk.js.LICENSE.txt": "/Quicklearn/static/js/2.6f589ed4.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Quicklearn/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/nucleo.css": "/Quicklearn/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/quicklearn-purple.png": "/Quicklearn/static/media/quicklearn-purple.6732e63a.png",
+    "static/media/quicklearn-white.png": "/Quicklearn/static/media/quicklearn-white.782aff5b.png",
+    "static/media/uppa-logo-white.png": "/Quicklearn/static/media/uppa-logo-white.bae0c63a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4872674b.js",
+    "static/js/runtime-main.cdace25c.js",
     "static/js/2.6f589ed4.chunk.js",
-    "static/css/main.38067ff1.chunk.css",
+    "static/css/main.841a24be.chunk.css",
     "static/js/main.3d6a0b15.chunk.js"
   ]
 }
